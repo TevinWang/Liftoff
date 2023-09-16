@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/liftoff/static/css/main.39421356.css",
+    "main.js": "/liftoff/static/js/main.158d3d1b.js",
+    "static/js/787.e3916e06.chunk.js": "/liftoff/static/js/787.e3916e06.chunk.js",
+    "static/media/cursor.gif": "/liftoff/static/media/cursor.bf666aa9f8a020639c9b.gif",
+    "static/media/logo.svg": "/liftoff/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/liftoff/index.html",
+    "main.39421356.css.map": "/liftoff/static/css/main.39421356.css.map",
+    "main.158d3d1b.js.map": "/liftoff/static/js/main.158d3d1b.js.map",
+    "787.e3916e06.chunk.js.map": "/liftoff/static/js/787.e3916e06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39421356.css",
+    "static/js/main.158d3d1b.js"
+  ]
+}
